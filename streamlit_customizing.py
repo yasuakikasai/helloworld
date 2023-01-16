@@ -19,4 +19,4 @@ st.write('Selected number from slider widget is:', number)
 
 st.title('st.secrets')
 
-st.write(st.secrets['abcdefg'])
+st.write(st.secrets['message'])
